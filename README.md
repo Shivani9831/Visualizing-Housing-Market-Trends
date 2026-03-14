@@ -12,7 +12,7 @@ This project analyzes and visualizes housing market trends using data visualizat
 Project Resources
 
 Reference Repository:
-https://github.com/Sonali-Appaso-Mali/Visualizing-Housing-Market-Trends
+https://github.com/Shivani9831/Visualizing-Housing-Market-Trends
 
 Dataset / Project File:
 https://drive.google.com/file/d/1g6QC2HI7ekOu1gBj8b55UAXfvk83-c8b/view
