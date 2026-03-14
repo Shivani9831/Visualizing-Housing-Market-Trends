@@ -15,9 +15,7 @@ Reference Repository:
 https://github.com/Shivani9831/Visualizing-Housing-Market-Trends
 
 Dataset / Project File:
-https://drive.google.com/file/d/1g6QC2HI7ekOu1gBj8b55UAXfvk83-c8b/view
-Objectives
-
+(https://drive.google.com/file/d/1P2glVo2lS-ioVzuzBTA1sIjSMfCvOzWF/view?usp=sharing)
 - Analyze housing market datasets
 - Identify patterns and trends in property prices
 - Create visual representations for better understanding of the data
