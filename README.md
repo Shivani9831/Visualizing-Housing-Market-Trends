@@ -7,6 +7,15 @@ Project Overview
 
 This project focuses on analyzing housing market data and identifying trends using data visualization techniques. The aim is to understand patterns in housing prices, sales distribution, and regional market behavior.
 
+This project analyzes and visualizes housing market trends using data visualization techniques.
+
+Project Resources
+
+Reference Repository:
+https://github.com/Sonali-Appaso-Mali/Visualizing-Housing-Market-Trends
+
+Dataset / Project File:
+https://drive.google.com/file/d/1g6QC2HI7ekOu1gBj8b55UAXfvk83-c8b/view
 Objectives
 
 - Analyze housing market datasets
